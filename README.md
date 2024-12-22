@@ -28,4 +28,7 @@
 
 ---
 
+### Game Preview 🎮
+![Preview](./Game.png)
+
 Enjoy the game! 😊
