@@ -19,7 +19,7 @@
 
 3. Open the project in your preferred IDE 🖥️.
 
-4. Run `FlappyBird.java` as a Java application ▶️.
+4. Run `App.java` as a Java application ▶️.
 
 5. Play the game! 🎮
 
